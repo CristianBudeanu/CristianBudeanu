@@ -2,9 +2,7 @@
 
 
 
-  <p align = "center">
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBudeanu&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianBudeanu&theme=dark&show_icons=true)
-  
+   <p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBudeanu&hide=html,css,java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&langs_count=3">
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianBudeanu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=0d1117" alt="Xccelerator's GitHub Stats" />
 </p>
