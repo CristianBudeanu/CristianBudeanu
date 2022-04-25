@@ -6,7 +6,7 @@
 
   <p align = "center">
   
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBudeanu&layout=compact&show_icons=true&theme=nord)](https://github.com/CristianBudeanu/github-readme-stats>
-  <img src=https://github-readme-stats.vercel.app/api?username=CristianBudeanu&show_icons=true&theme=nord>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBudeanu&layout=compact&show_icons=true&theme=nord)](https://github.com/CristianBudeanu/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianBudeanu&show_icons=true&theme=nord">
   
 </p>
