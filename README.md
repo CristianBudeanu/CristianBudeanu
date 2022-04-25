@@ -2,7 +2,7 @@
 
 
 
-   <p align = "center">
+<p align = "center">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBudeanu&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianBudeanu&show_icons=true&theme=radical)
 </p>
