@@ -6,7 +6,7 @@
 
   <p align = "center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBudeanu&layout=compact&show_icons=true&theme=nord)](https://github.com/CristianBudeanu/github-readme-stats)
-  ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianBudeanu&show_icons=true&theme=nord)
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBudeanu&layout=compact&show_icons=true&theme=nord)](https://github.com/CristianBudeanu/github-readme-stats)>
+  <img align="center" src=![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianBudeanu&show_icons=true&theme=nord)>
   
 </p>
