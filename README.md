@@ -1,7 +1,7 @@
 ### <h1 align = "center">Hello world!</h1>&nbsp;<div align = "center"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"></div>
 
   <p align = "center">
-	- C/C++
+	- C/C++/Java
   </br>
   - HTML, CSS and Javascript
 </p>
