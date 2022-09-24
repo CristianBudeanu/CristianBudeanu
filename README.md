@@ -5,11 +5,6 @@
   </br>
   - HTML, CSS and Javascript
 </p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CristianBudeanu&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-</p>  
-
 <p align="center">
  <a href="https://www.linkedin.com/in/budeanu-cristian-00929b228/" target="blank">
   <img align="center" alt="Cristian's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
