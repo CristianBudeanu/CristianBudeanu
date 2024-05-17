@@ -3,7 +3,6 @@
   <p align = "center">
 	-C#/Angular
   </br>
-  - HTML, CSS and Javascript
 </p>
 <p align="center">
  <a href="https://www.linkedin.com/in/budeanu-cristian-00929b228/" target="blank">
